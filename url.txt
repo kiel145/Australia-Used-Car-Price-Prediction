@@ -1,0 +1,8 @@
+Dataset:
+https://www.kaggle.com/datasets/lainguyn123/australia-car-market-data
+
+Deployment:
+https://huggingface.co/spaces/kiel145/Kevin-Hibatul-Deployment
+
+Model:
+https://drive.google.com/file/d/1TB8KnZUvIg-V11WrMEMcSnEwdzMgp8Ak/view?usp=drive_link
